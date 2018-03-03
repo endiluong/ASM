@@ -1,0 +1,42 @@
+.tab1{
+    width:400px;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+[type=text]{
+   
+    width: 300px;
+}
+[type=email]{
+  
+    width: 300px;
+}
+.table.th {
+        margin-left: 5px;
+    }
+.buttonsubmit{
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding-right: 2px;
+}
+.buttonsubmit.input{
+    border-radius: 5px;
+}
+
+.txtarea{
+  
+  
+}
+.commenttit{
+    font-weight: 900;
+    vertical-align: top;
+}
+.name{
+    height: 80px;
+    font-weight: 700;
+    font-size: 30px;  
+    color: whitesmoke;
+    font: normal 36px 'Cookie', cursive;
+}
